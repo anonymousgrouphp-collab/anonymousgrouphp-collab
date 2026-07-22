@@ -1,0 +1,4 @@
+{
+  "cacheStrategy": "stale-while-revalidate",
+  "maxAge": 86400
+}
