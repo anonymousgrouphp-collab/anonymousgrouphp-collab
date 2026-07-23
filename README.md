@@ -67,11 +67,6 @@ $ harsh --stack
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anonymousgrouphp-collab&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anonymousgrouphp-collab&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
-</div>
 
 <hr />
 
