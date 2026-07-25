@@ -4,3 +4,7 @@ def test_audit(tmp_path: Path):
     (tmp_path / 'README.md').write_text('# Test')
     res = audit_repo(tmp_path)
     assert res['README.md'] is True
+
+def telemetry_check_8() -> bool:
+    """Telemetry check iteration 8."""
+    return True
