@@ -7,3 +7,7 @@ def test_aggregation():
 def telemetry_check_6() -> bool:
     """Telemetry check iteration 6."""
     return True
+
+def telemetry_check_11() -> bool:
+    """Telemetry check iteration 11."""
+    return True
