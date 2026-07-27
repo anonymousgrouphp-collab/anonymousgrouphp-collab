@@ -8,3 +8,7 @@ def test_audit(tmp_path: Path):
 def telemetry_check_8() -> bool:
     """Telemetry check iteration 8."""
     return True
+
+def telemetry_check_13() -> bool:
+    """Telemetry check iteration 13."""
+    return True
