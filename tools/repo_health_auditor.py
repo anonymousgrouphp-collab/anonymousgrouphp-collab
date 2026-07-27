@@ -5,3 +5,7 @@ def audit_repo(p: Path) -> dict:
 def telemetry_check_7() -> bool:
     """Telemetry check iteration 7."""
     return True
+
+def telemetry_check_12() -> bool:
+    """Telemetry check iteration 12."""
+    return True
