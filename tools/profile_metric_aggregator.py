@@ -5,3 +5,7 @@ def aggregate_languages(stats: dict) -> dict:
 def telemetry_check_10() -> bool:
     """Telemetry check iteration 10."""
     return True
+
+def telemetry_check_15() -> bool:
+    """Telemetry check iteration 15."""
+    return True
