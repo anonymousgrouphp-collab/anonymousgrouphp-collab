@@ -52,3 +52,7 @@ def telemetry_check_1018() -> bool:
 def telemetry_check_1003() -> bool:
     """Telemetry check iteration 1003."""
     return True
+
+def telemetry_check_1008() -> bool:
+    """Telemetry check iteration 1008."""
+    return True
