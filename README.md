@@ -15,15 +15,15 @@
 <!-- Interactive Cyberpunk Terminal Box -->
 ```bash
 $ harsh --version
-  Harsh Patel v2.026 (Full-Stack Engineer & Open-Source Contributor)
+  Harsh Patel v2.026 (Full-Stack Engineer & AI Systems Architect)
 
 $ harsh --focus
-  🚀 Architecting production web applications & scalable AI agentic workflows.
-  ⚡ Active Open-Source Contributor & PR Lead across multi-repo collaborative ecosystems.
+  🏛️ Co-Creator & Core Architect of MetroLens AI (Smart India Hackathon SIH26034).
+  🚀 Building production web applications & scalable AI agentic workflows.
   🌌 NASA Space Apps Challenge Creator (Meteor Madness Simulator).
 
 $ harsh --stack
-  [ JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, PostgreSQL, MongoDB, Git, Docker ]
+  [ JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, FastAPI, PostgreSQL, MongoDB, Git, Docker ]
 ```
 
 <hr />
@@ -45,7 +45,7 @@ $ harsh --stack
 ### 🛠️ Core Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,postgres,mongodb,tailwind,git,docker&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,py,postgres,mongodb,tailwind,git,docker&perline=13" alt="Tech Stack" />
 </div>
 
 <hr />
@@ -55,6 +55,7 @@ $ harsh --stack
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| 🏛️ **[MetroLens AI](https://github.com/kunal-raj-dev/MetroLens)** | **Co-Creator & Lead Architect** • Automated Legal Metrology Inspection & Compliance System built for Smart India Hackathon (SIH26034 / InnoHack 3.0). | `FastAPI`, `React`, `Python`, `AI/CV` |
 | 🤖 **[Ultron](https://github.com/anonymousgrouphp-collab/ultron)** | Desktop AI Voice Assistant with offline wake-word detection, speech synthesis & async workflow automation. | `Python`, `Speech APIs`, `AI/LLMs` |
 | 🎓 **[SkillBun](https://github.com/anonymousgrouphp-collab/skillbun)** | AI-powered career counseling platform providing dynamic career trajectories & skill gap analysis. | `Next.js`, `Node.js`, `Firebase`, `Tailwind` |
 | ☄️ **[Meteor Madness Simulator](https://github.com/anonymousgrouphp-collab/meteor-madness-simulator-by-team-cosmic)** | NASA Space Apps Challenge web app simulating asteroid impact scenarios & planetary defense. | `JavaScript`, `CSS3`, `APIs` |
@@ -66,9 +67,9 @@ $ harsh --stack
 
 | Organization / Repository | Role & Impact | Focus Area |
 | :--- | :--- | :--- |
-| 🌐 **[MetroLens](https://github.com/kunal-raj-dev/MetroLens)** | Contributor & Code Reviewer | Frontend feature enhancements & responsive UI integrations |
+| 🏛️ **[MetroLens AI](https://github.com/kunal-raj-dev/MetroLens)** | Co-Creator & PR Lead | Core full-stack architecture, deterministic compliance engine & API integrations |
 | 📚 **[OPEN_DIGITAL_LIBRARY_REPO](https://github.com/aryansharma83301-gif/OPEN_DIGITAL_LIBRARY_REPO)** | Contributor & Architecture Reviewer | Digital repository modularity & distributed catalog design |
-| 📜 **[scroll-parade-archive](https://github.com/raineeiit/scroll-parade-archive)** | Core Collaborator & PR Lead | Repo governance (`CODEOWNERS`), standards & code health |
+| 📜 **[scroll-parade-archive](https://github.com/raineeiit/scroll-parade-archive)** | Core Collaborator & PR Lead | Repo governance (`CODEOWNERS`), code health & CI workflows |
 
 <hr />
 
