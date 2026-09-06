@@ -18,8 +18,8 @@ $ harsh --version
   Harsh Patel v2.026 (Full-Stack Engineer & AI Systems Architect)
 
 $ harsh --focus
-  🏛️ Co-Creator & Core Architect of MetroLens AI (Smart India Hackathon SIH26034).
-  🚀 Building production web applications & scalable AI agentic workflows.
+  🏛️ Building MetroLens AI (Smart India Hackathon SIH26034).
+  🚀 Developing production web applications & scalable AI agentic workflows.
   🌌 NASA Space Apps Challenge Creator (Meteor Madness Simulator).
 
 $ harsh --stack
@@ -55,21 +55,10 @@ $ harsh --stack
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🏛️ **[MetroLens AI](https://github.com/kunal-raj-dev/MetroLens)** | **Co-Creator & Lead Architect** • Automated Legal Metrology Inspection & Compliance System built for Smart India Hackathon (SIH26034 / InnoHack 3.0). | `FastAPI`, `React`, `Python`, `AI/CV` |
+| 🏛️ **[MetroLens AI](https://github.com/kunal-raj-dev/MetroLens)** | Automated Legal Metrology Inspection & Compliance System built for Smart India Hackathon (SIH26034 / InnoHack 3.0). | `FastAPI`, `React`, `Python`, `AI/CV` |
 | 🤖 **[Ultron](https://github.com/anonymousgrouphp-collab/ultron)** | Desktop AI Voice Assistant with offline wake-word detection, speech synthesis & async workflow automation. | `Python`, `Speech APIs`, `AI/LLMs` |
 | 🎓 **[SkillBun](https://github.com/anonymousgrouphp-collab/skillbun)** | AI-powered career counseling platform providing dynamic career trajectories & skill gap analysis. | `Next.js`, `Node.js`, `Firebase`, `Tailwind` |
 | ☄️ **[Meteor Madness Simulator](https://github.com/anonymousgrouphp-collab/meteor-madness-simulator-by-team-cosmic)** | NASA Space Apps Challenge web app simulating asteroid impact scenarios & planetary defense. | `JavaScript`, `CSS3`, `APIs` |
-
-<hr />
-
-<!-- Open-Source & Collaborative Impact -->
-### 🤝 Open-Source & Collaborative Contributions
-
-| Organization / Repository | Role & Impact | Focus Area |
-| :--- | :--- | :--- |
-| 🏛️ **[MetroLens AI](https://github.com/kunal-raj-dev/MetroLens)** | Co-Creator & PR Lead | Core full-stack architecture, deterministic compliance engine & API integrations |
-| 📚 **[OPEN_DIGITAL_LIBRARY_REPO](https://github.com/aryansharma83301-gif/OPEN_DIGITAL_LIBRARY_REPO)** | Contributor & Architecture Reviewer | Digital repository modularity & distributed catalog design |
-| 📜 **[scroll-parade-archive](https://github.com/raineeiit/scroll-parade-archive)** | Core Collaborator & PR Lead | Repo governance (`CODEOWNERS`), code health & CI workflows |
 
 <hr />
 
