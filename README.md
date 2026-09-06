@@ -59,17 +59,6 @@ $ harsh --stack
 
 <hr />
 
-<!-- GitHub Analytics & Futuristic Activity Graph -->
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=anonymousgrouphp-collab&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Harsh's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anonymousgrouphp-collab&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
-</div>
-
-
-<hr />
-
 <!-- Dynamic Dev Joke -->
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random Dev Joke" />
