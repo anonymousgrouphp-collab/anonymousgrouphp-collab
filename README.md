@@ -6,7 +6,7 @@
 <!-- Typing Effect Subtitle -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Web+Innovator+%F0%9F%9A%80;NASA+Space+Apps+Participant+%F0%9F%8C%8C;Open-Source+Enthusiast+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%92%BB;Open-Source+Contributor+%26+PR+Lead+%F0%9F%A4%9D;AI+%26+Autonomous+Workflows+%F0%9F%9A%80;NASA+Space+Apps+Challenge+Creator+%F0%9F%8C%8C" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,14 +15,15 @@
 <!-- Interactive Cyberpunk Terminal Box -->
 ```bash
 $ harsh --version
-  Harsh Patel v2.026 (Full-Stack Engineer & AI Enthusiast)
+  Harsh Patel v2.026 (Full-Stack Engineer & Open-Source Contributor)
 
-$ harsh --status
-  🚀 Currently building high-performance web apps & AI agentic workflows.
+$ harsh --focus
+  🚀 Architecting production web applications & scalable AI agentic workflows.
+  ⚡ Active Open-Source Contributor & PR Lead across multi-repo collaborative ecosystems.
   🌌 NASA Space Apps Challenge Creator (Meteor Madness Simulator).
 
 $ harsh --stack
-  [ JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, PostgreSQL, MongoDB, Git ]
+  [ JavaScript, TypeScript, React, Next.js, Node.js, Express, Python, PostgreSQL, MongoDB, Git, Docker ]
 ```
 
 <hr />
@@ -54,8 +55,20 @@ $ harsh --stack
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| ☄️ **[Meteor Madness Simulator](https://github.com/anonymousgrouphp-collab/meteor-madness-simulator-by-team-cosmic)** | NASA Space Apps Challenge web app simulating asteroid impact scenarios & mitigation. | `JavaScript`, `CSS`, `APIs` |
-| 🎓 **[SkillBun](https://github.com/anonymousgrouphp-collab/skillbun)** | AI-powered career counseling platform providing career pathway guidance. | `JavaScript`, `Node.js`, `AI` |
+| 🤖 **[Ultron](https://github.com/anonymousgrouphp-collab/ultron)** | Desktop AI Voice Assistant with offline wake-word detection, speech synthesis & async workflow automation. | `Python`, `Speech APIs`, `AI/LLMs` |
+| 🎓 **[SkillBun](https://github.com/anonymousgrouphp-collab/skillbun)** | AI-powered career counseling platform providing dynamic career trajectories & skill gap analysis. | `Next.js`, `Node.js`, `Firebase`, `Tailwind` |
+| ☄️ **[Meteor Madness Simulator](https://github.com/anonymousgrouphp-collab/meteor-madness-simulator-by-team-cosmic)** | NASA Space Apps Challenge web app simulating asteroid impact scenarios & planetary defense. | `JavaScript`, `CSS3`, `APIs` |
+
+<hr />
+
+<!-- Open-Source & Collaborative Impact -->
+### 🤝 Open-Source & Collaborative Contributions
+
+| Organization / Repository | Role & Impact | Focus Area |
+| :--- | :--- | :--- |
+| 🌐 **[MetroLens](https://github.com/kunal-raj-dev/MetroLens)** | Contributor & Code Reviewer | Frontend feature enhancements & responsive UI integrations |
+| 📚 **[OPEN_DIGITAL_LIBRARY_REPO](https://github.com/aryansharma83301-gif/OPEN_DIGITAL_LIBRARY_REPO)** | Contributor & Architecture Reviewer | Digital repository modularity & distributed catalog design |
+| 📜 **[scroll-parade-archive](https://github.com/raineeiit/scroll-parade-archive)** | Core Collaborator & PR Lead | Repo governance (`CODEOWNERS`), standards & code health |
 
 <hr />
 
