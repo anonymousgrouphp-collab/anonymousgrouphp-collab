@@ -18,7 +18,7 @@ $ harsh --version
   Harsh Patel v2.026 (Full-Stack Engineer & AI Systems Architect)
 
 $ harsh --focus
-  🏛️ Building MetroLens AI (Smart India Hackathon SIH26034).
+  🏛️ Building Nirikshak (Smart India Hackathon SIH26034).
   🚀 Developing production web applications & scalable AI agentic workflows.
   🌌 NASA Space Apps Challenge Creator (Meteor Madness Simulator).
 
@@ -55,7 +55,7 @@ $ harsh --stack
 
 | Project | Description | Live & Code | Stack |
 | :--- | :--- | :---: | :--- |
-| 🏛️ **MetroLens AI** | Automated Legal Metrology Inspection & Compliance System built for Smart India Hackathon (SIH26034 / InnoHack 3.0). | [🌐 Demo](https://sih26034.vercel.app) · [💻 Code](https://github.com/anonymousgrouphp-collab/sih26034) | `FastAPI`, `React`, `Python`, `AI/CV` |
+| 🏛️ **Nirikshak** | Automated Legal Metrology Inspection & Compliance System built for Smart India Hackathon (SIH26034 / InnoHack 3.0). | [🌐 Demo](https://sih26034.vercel.app) · [💻 Code](https://github.com/anonymousgrouphp-collab/sih26034) | `FastAPI`, `React`, `Python`, `AI/CV` |
 | 🤖 **Ultron** | Desktop AI Voice Assistant with offline wake-word detection, speech synthesis & async workflow automation. | [💻 Code](https://github.com/anonymousgrouphp-collab/ultron) | `Python`, `Speech APIs`, `AI/LLMs` |
 | 🎓 **SkillBun** | AI-powered career counseling platform providing dynamic career trajectories & skill gap analysis. | [🌐 Demo](https://skillbun.tech/) · [💻 Code](https://github.com/anonymousgrouphp-collab/skillbun) | `Next.js`, `Node.js`, `Gemini AI`, `Tailwind` |
 | ☄️ **Meteor Madness Simulator** | NASA Space Apps Challenge planetary defense web app simulating asteroid impact scenarios. | [🌐 Demo](https://geothreatsimulator.us/) · [💻 Code](https://github.com/anonymousgrouphp-collab/meteor-madness-simulator-by-team-cosmic) | `JavaScript`, `Canvas`, `NASA APIs` |
